@@ -1,6 +1,9 @@
 ### Network Software Engineer
 - 🔭 I’m currently working on Network related software development, especially Wi-Fi
 - 🌱 I’m currently learning Kubernetes, Go, Rust
+- Twitter: https://twitter.com/masap
+- Zenn: https://zenn.dev/masap
+- Qiita: https://qiita.com/masap
 
 ### The repos I contributed to
 | Id | Repo | First commit | Last commit | Total commits |
