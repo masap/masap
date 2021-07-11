@@ -8,8 +8,8 @@
 ### The repos I contributed to
 Kubernetes
 - [Kubernetes](https://github.com/kubernetes/kubernetes/commits?author=masap) (commits=17)
-- [OVS CNI](https://github.com/masap/ovs-cni/commits?author=masap) (6)
-- [OVN Kubernetes](https://github.com/masap/ovn-kubernetes/commits?author=masap) (3)
+- [OVS CNI](https://github.com/k8snetworkplumbingwg/ovs-cni/commits?author=masap) (6)
+- [OVN Kubernetes](https://github.com/ovn-org/ovn-kubernetes/commits?author=masap) (3)
 
 Networking
 - [hostapd/wpa_supplicant](https://w1.fi/cgit/hostap/log/?qt=author&q=Masashi+Honma) (267)
