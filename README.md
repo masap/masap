@@ -4,6 +4,7 @@
 - Twitter: https://twitter.com/masap
 - Zenn: https://zenn.dev/masap
 - Qiita: https://qiita.com/masap
+- slideshare: https://www.slideshare.net/honmamasashi1/presentations
 
 ### The repos I contributed to
 Kubernetes
