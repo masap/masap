@@ -1,5 +1,5 @@
 ### Network Software Engineer
-- 🔭 I’m currently working on network related software development, especially Wi-Fi and its security
+- I’m currently working on network related software development, especially Wi-Fi and its security
 - Zenn: https://zenn.dev/masap
 - Qiita: https://qiita.com/masap
 - slideshare: https://www.slideshare.net/honmamasashi1/presentations
@@ -16,11 +16,11 @@ Security
 - [wolfSSL](https://github.com/masap/wolfssl/commits?author=masap) (7)
 
 Machine learning
-- [optuna](https://github.com/optuna/optuna/commits?author=masap) (14)
+- [optuna](https://github.com/optuna/optuna/commits?author=masap) (19)
 
 Kubernetes
 - [Kubernetes](https://github.com/kubernetes/kubernetes/commits?author=masap) (17)
-- [OVS CNI](https://github.com/k8snetworkplumbingwg/ovs-cni/commits?author=masap) (17)
+- [OVS CNI](https://github.com/k8snetworkplumbingwg/ovs-cni/commits?author=masap) (18)
 - [OVN Kubernetes](https://github.com/ovn-org/ovn-kubernetes/commits?author=masap) (3)
 
 Mozilla
@@ -28,4 +28,4 @@ Mozilla
 - [Boot To Gecko](https://github.com/mozilla-b2g/gaia/commits?author=masap) (24)
 
 Total
-- commits = 424
+- commits = 430
