@@ -11,6 +11,7 @@ Networking
 - [NetworkManager](https://github.com/NetworkManager/NetworkManager/commits?author=masap) (6)
 - [Wireshark](https://github.com/wireshark/wireshark/commits?author=masap) (4)
 - [Wmediumd](https://github.com/bcopeland/wmediumd/commits?author=masap) (32)
+- [netjsonconfig](https://github.com/masap/netjsonconfig/commits?author=masap) (7)
 
 Security
 - [wolfSSL](https://github.com/masap/wolfssl/commits?author=masap) (7)
@@ -28,4 +29,4 @@ Mozilla
 - [Boot To Gecko](https://github.com/mozilla-b2g/gaia/commits?author=masap) (24)
 
 Total
-- commits = 430
+- commits = 437
