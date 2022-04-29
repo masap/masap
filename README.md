@@ -6,7 +6,7 @@
 
 ### The repos I contributed to
 Networking
-- [hostapd/wpa_supplicant](https://w1.fi/cgit/hostap/log/?qt=author&q=Masashi+Honma) (commits=273)
+- [hostapd/wpa_supplicant](https://w1.fi/cgit/hostap/log/?qt=author&q=Masashi+Honma) (commits=274)
 - [Linux Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/log/?qt=author&q=Masashi+Honma) (21)
 - [NetworkManager](https://github.com/NetworkManager/NetworkManager/commits?author=masap) (6)
 - [Wireshark](https://github.com/wireshark/wireshark/commits?author=masap) (4)
@@ -14,10 +14,10 @@ Networking
 - [netjsonconfig](https://github.com/masap/netjsonconfig/commits?author=masap) (7)
 
 Security
-- [wolfSSL](https://github.com/masap/wolfssl/commits?author=masap) (7)
+- [wolfSSL](https://github.com/masap/wolfssl/commits?author=masap) (8)
 
 Machine learning
-- [optuna](https://github.com/optuna/optuna/commits?author=masap) (19)
+- [optuna](https://github.com/optuna/optuna/commits?author=masap) (25)
 
 Kubernetes
 - [Kubernetes](https://github.com/kubernetes/kubernetes/commits?author=masap) (17)
@@ -29,4 +29,4 @@ Mozilla
 - [Boot To Gecko](https://github.com/mozilla-b2g/gaia/commits?author=masap) (24)
 
 Total
-- commits = 437
+- commits = 445
