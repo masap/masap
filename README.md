@@ -15,9 +15,9 @@ Networking
 
 Kubernetes
 - [Kubernetes](https://github.com/kubernetes/kubernetes/commits?author=masap) (17)
+- [Calico](https://github.com/projectcalico/calico/commits?author=masap) (2)
 - [OVS CNI](https://github.com/k8snetworkplumbingwg/ovs-cni/commits?author=masap) (18)
 - [OVN Kubernetes](https://github.com/ovn-org/ovn-kubernetes/commits?author=masap) (3)
-- [Calico](https://github.com/projectcalico/calico/commits?author=masap) (2)
 - [rancher/rke](https://github.com/rancher/rke/commits?author=masap) (1)
 - [rancher/docs](https://github.com/masap/docs/commits?author=masap) (1)
 - [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools/commits?author=masap) (2)
