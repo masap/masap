@@ -19,6 +19,7 @@ Kubernetes
 - [OVS CNI](https://github.com/k8snetworkplumbingwg/ovs-cni/commits?author=masap) (18)
 - [OVN Kubernetes](https://github.com/ovn-org/ovn-kubernetes/commits?author=masap) (3)
 - [sonobuoy](https://github.com/vmware-tanzu/sonobuoy/commits?author=masap) (4)
+- [harvester docs](https://github.com/harvester/docs/commits?author=masap) (1)
 - [kube-bench](https://github.com/aquasecurity/kube-bench/commits?author=masap) (4)
 - [rancher/rke](https://github.com/rancher/rke/commits?author=masap) (1)
 - [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools/commits?author=masap) (5)
