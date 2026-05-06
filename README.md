@@ -6,7 +6,7 @@
 
 ### The repos I contributed to
 Networking
-- [hostapd/wpa_supplicant](https://w1.fi/cgit/hostap/log/?qt=author&q=Masashi+Honma) (commits=274)
+- [hostapd/wpa_supplicant](https://w1.fi/cgit/hostap/log/?qt=author&q=Masashi+Honma) (commits=276)
 - [Linux Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/log/?qt=author&q=Masashi+Honma) (21)
 - [NetworkManager](https://github.com/NetworkManager/NetworkManager/commits?author=masap) (6)
 - [Wireshark](https://github.com/wireshark/wireshark/commits?author=masap) (4)
@@ -38,4 +38,4 @@ Mozilla
 - [Boot To Gecko](https://github.com/mozilla-b2g/gaia/commits?author=masap) (24)
 
 Total
-- commits = 466
+- commits = 468
